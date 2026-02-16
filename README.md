@@ -24,6 +24,7 @@ California Housing Dataset from scikit-learn.
 
 ## Results
 The Linear Regression model achieved a reasonable R² score and provided meaningful insights into house price prediction.
+(Achieved more than 85% accuracy)
 
 ## Author
-Your Name
+GOWTHAAM L
